@@ -1,2 +1,2 @@
 # AllStateEDA
-EDA for All State Severity challenge on kaggle
+This notebook provides a minimal EDA for the kaggle All State Severity challenge.
